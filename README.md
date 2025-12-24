@@ -5,7 +5,7 @@
 
 **Eng:** Cyrillic versions of the [Libre Caslon Text](https://github.com/impallari/Libre-Caslon-Text) and [Libre Caslon Condensed](https://github.com/ertekinno/libre-caslon-condensed). Added cyrillic glyphs for RU, BY and UA scripts. Didn't bother with a proper kerning — just fixed obvious pairs along the way. Beware! :-)
 
-**Ru:** Кириллические версии шрифтов [Libre Caslon Text Regular](https://github.com/impallari/Libre-Caslon-Text) и [Libre Caslon Condensed Regular](https://github.com/ertekinno/libre-caslon-condensed). Добавил кириллицу для RU, BY и UA. Кернинг выставлял только там, где что-то бросалось в глаза.
+**Ru:** Кириллические версии шрифтов [Libre Caslon Text](https://github.com/impallari/Libre-Caslon-Text) и [Libre Caslon Condensed](https://github.com/ertekinno/libre-caslon-condensed). Добавил кириллицу для RU, BY и UA. Кернинг выставлял только там, где что-то бросалось в глаза.
 
 - **Scripts:** Latin, Cyrillic
 - **Сyrillic:** RU, BY, UA
