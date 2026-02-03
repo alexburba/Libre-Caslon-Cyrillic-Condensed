@@ -2,9 +2,9 @@
 
 ![abtype-auto-specimen 002](https://github.com/user-attachments/assets/ae1ca732-3384-4e82-b86a-cfcb49272a55)
 
-**Engish:** Cyrillic versions of the [Libre Caslon Text](https://github.com/impallari/Libre-Caslon-Text) and [Libre Caslon Condensed](https://github.com/ertekinno/libre-caslon-condensed). Added cyrillic glyphs for RU, BY and UA scripts.
+**Engish:** Cyrillic versions of the [Libre Caslon Text](https://github.com/impallari/Libre-Caslon-Text) and [Libre Caslon Condensed](https://github.com/ertekinno/libre-caslon-condensed). Added cyrillic for RU, BY and UA scripts. Serbian Cyrillic is in progress.
 
-**Russian:** Кириллические версии шрифтов [Libre Caslon Text](https://github.com/impallari/Libre-Caslon-Text) и [Libre Caslon Condensed](https://github.com/ertekinno/libre-caslon-condensed). Добавил кириллицу для RU, BY и UA.
+**Russian:** Кириллические версии шрифтов [Libre Caslon Text](https://github.com/impallari/Libre-Caslon-Text) и [Libre Caslon Condensed](https://github.com/ertekinno/libre-caslon-condensed). Добавил кириллицу для RU, BY и UA. Сербская кириллица в процессе.
 
 - **Scripts:** Latin, Cyrillic
 - **Сyrillic:** RU, BY, UA (SRB in progress)
